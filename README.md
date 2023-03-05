@@ -1,9 +1,9 @@
-
-1) Completed Todos
-2) Incompleted Todos
-3) You can Add Todo
-3) You can Update Todo
-3) You can Delete Todos
+1) Using : Redux-toolkit , Chakra Ui and any Libraries
+2) Completed Todos
+3) Incompleted Todos
+4) You can Add Todo
+5) You can Update Todo
+6) You can Delete Todos
 
 ![completed](https://user-images.githubusercontent.com/92122363/222971186-455c7513-fe48-46f8-bc5b-af97fc81cfb2.png)
 
